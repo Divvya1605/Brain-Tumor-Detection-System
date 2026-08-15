@@ -1,0 +1,25 @@
+{
+  "class_names": [
+    "glioma",
+    "meningioma",
+    "notumor",
+    "pituitary"
+  ],
+  "image_size": 128,
+  "n_theta": 24,
+  "n_phi": 48,
+  "max_degree": 6,
+  "num_coeffs": 49,
+  "theta_sector": [
+    0.0,
+    1.3659098493868664
+  ],
+  "phi_sector": [
+    4.057890510886816,
+    9.162978572970228
+  ],
+  "q1": 2.5108468995726105,
+  "q2": -1.5108468995726105,
+  "u": 1.230769230769231,
+  "novelty_scale": 3.4122856093332072
+}
